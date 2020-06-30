@@ -8,7 +8,7 @@ public class SampleResource {
 
     @RequestMapping("/")
     public String hello() {
-        return "Bye.bye.bye.byeHello Shubham! to new ethans class new batch";
+        return "jfnvjsbvdfsvnBye.bye.bye.byeHello Shubham! to new ethans class new batch";
     }
 
 }
